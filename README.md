@@ -25,3 +25,9 @@ A Java-based vehicle management and simulation system, designed for a car dealer
 
 ## 📁 Project Structure
 
+/src  
+├── **Factories** – Vehicle creation logic by environment (e.g., Ground, Air, Water)  
+├── **Graphics** – GUI components such as panels, dialogs, and menus  
+├── **Vehicles** – Base classes and implementations for different vehicle types  
+├── **Interfaces** – Interface definitions for extensibility and flexibility  
+└── **Main** – Application entry point and startup logic
