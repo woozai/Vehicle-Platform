@@ -8,8 +8,8 @@ A Java-based vehicle management and simulation system, designed for a car dealer
 - Simulate **test drives** for selected vehicles
 - Use of **multithreading** for handling background operations and animations
 - Rich GUI interface (Swing-based) for managing vehicle data and visualizing actions
-- Support for **cloning**, **decorator pattern**, and **observer pattern**
-- Persistency of vehicles and user actions during the session
+- Support for **cloning**, **decorator pattern**, **factory** and **observer pattern** etc.
+- Persistence of vehicles and user actions during the session
 
 ## 🔍 Key Technologies
 
