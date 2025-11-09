@@ -3,7 +3,6 @@ package Factories;
 import Graphics.DataPanel;
 import Graphics.ImagesForVehiclePanel;
 import system.Agency;
-
 import javax.swing.*;
 
 public abstract class AbstractFactory {
