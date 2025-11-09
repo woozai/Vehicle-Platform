@@ -5,7 +5,6 @@ import Graphics.ImagesForVehiclePanel;
 import Graphics.InputErrorOption;
 import Vehicles.*;
 import system.Agency;
-
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
